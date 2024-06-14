@@ -1,0 +1,23 @@
+root - INFO - Testing import_data: SUCCESS
+root - INFO - Testing perform_eda function...
+root - INFO - SUCCESS: images/eda/churn_histogram.png has been generated.
+root - INFO - SUCCESS: images/eda/Customer_Age_histogram.png has been generated.
+root - INFO - SUCCESS: images/eda/Martial_Status_value_counts.png has been generated.
+root - INFO - SUCCESS: images/eda/Total_Trans_Ct_density.png has been generated.
+root - INFO - SUCCESS: images/eda/df_correlation_matrix.png has been generated.
+root - INFO - Testing encoder_helper function...
+root - INFO - SUCCESS: Column Gender_Churn has been generated.
+root - INFO - SUCCESS: Column Education_Level_Churn has been generated.
+root - INFO - SUCCESS: Column Marital_Status_Churn has been generated.
+root - INFO - SUCCESS: Column Income_Category_Churn has been generated.
+root - INFO - SUCCESS: Column Card_Category_Churn has been generated.
+root - INFO - Testing perform_feature_engineering function...
+root - INFO - SUCCESS: Training and test sets have been generated.
+root - INFO - SUCCESS: All training and test data have correct data types.
+root - INFO - Testing train_models function...
+root - INFO - SUCCESS: Models have been trained
+root - INFO - SUCCESS: images/results/rfc_classification_report.png has been generated.
+root - INFO - SUCCESS: images/results/lr_classification_report.png has been generated.
+root - INFO - SUCCESS: images/results/rfc_feature_importance.png has been generated.
+root - INFO - SUCCESS: images/results/rfc_roc.png has been generated.
+root - INFO - SUCCESS: images/results/lr_roc.png has been generated.
